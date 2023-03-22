@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi aliquam quaerat ipsum impedit deserunt veniam a doloribus quod ex error itaque ullam, hic incidunt vel ratione dicta tempore fugit? Dolorum?",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party!!!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus ab molestiae aspernatur illo eum deserunt! Tempore officia, dolorem alias soluta odit quis fuga non doloremque cum vero sapiente ipsum asperiores.",
+      "author": "Luigi",
+      "id": 2
+    },
+    {
+      "title": "Blender Procedural material",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam omnis, veritatis nostrum ea, id adipisci voluptatum, laudantium impedit facere itaque nulla numquam mollitia. Cupiditate necessitatibus blanditiis possimus repellendus totam atque.",
+      "author": "Blender Guru",
+      "id": 3
+    },
+    {
+      "title": "Test",
+      "body": "This is a test blog just to see if POST method is working or not.",
+      "author": "Blender Guru",
+      "id": 4
+    }
+  ]
+}
